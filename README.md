@@ -46,7 +46,7 @@ Ao executar, a aplicação exibirá uma janela gráfica com a malha viária lida
 
 # Observações
 
-- O arquivo `malha-exemplo[N].txt` contém a definição da malha viária.
+- O arquivo `malha-exemplo[N].txt` (pasta /docs) contém a definição da malha viária.
 - As threads representam veículos independentes.
 - O mecanismo de exclusão pode ser alternado entre `ExclusaoMonitor` e `ExclusaoSemaforo`.
 
